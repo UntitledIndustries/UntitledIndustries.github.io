@@ -3,5 +3,5 @@ defaults:
     scope:
       path: ''
     values:
-      layout: ''
+      layout: 'redirect'
 new_domain: 'nesteph.github.io'
