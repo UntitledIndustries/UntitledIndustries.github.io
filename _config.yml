@@ -4,4 +4,4 @@ defaults:
       path: ''
     values:
       layout: 'redirect'
-new_domain: 'nesteph.github.io/some/path
+new_domain: 'nesteph.github.io/some/path'
